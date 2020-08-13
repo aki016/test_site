@@ -283,7 +283,7 @@ a:hover{
 }
 
 
-@media(min-width:300px){
+@media(min-width:280px){
 	.whats-img{
 
 	}
@@ -425,7 +425,7 @@ th{
 
 
 
-@media(min-width:300px){
+@media(min-width:280px){
 		.rental{
 	/*	background-color: rgba(105,180,115,0.440);*/
 		text-align: center;
@@ -578,7 +578,7 @@ dh{
 	font-size: 20px;	
 }
 
-@media(min-width:500px){
+@media(min-width:280px){
 
 	.main-head3-comment{
 	/*	background-color: rgba(0,55,206,1.00);*/
